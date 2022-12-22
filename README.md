@@ -19,9 +19,7 @@ Este repositório é destinado ao conteúdo do grupo de estudos DreamTeam do cur
 
   - [x] Estrutura de Repetição
 
-  - [x] Estrutura de Decisão
-
-  - [x] 
+  - [x] Estrutura de Decisão 
 
   - [x] Funções
 
