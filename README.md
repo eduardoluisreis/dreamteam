@@ -1,2 +1,40 @@
-# dreamteam
-Repositorio Destinado ao Conteudo de Estudos e Troca de Conhecimentos da Turma do Grupo de Estudos do TADS-SENAC Abril 2022 no WhatsApp
+<div align="center">
+Este repositório é destinado ao conteúdo do grupo de estudos DreamTeam do curso TADS - SENAC
+
+
+
+"Um passo a frente e você não esta mais no mesmo lugar!" <br/><br/>
+
+<h3> Andamento do Processo:</h3>
+
+<img height="300vh" src="assets/imagens/binary-code.jpg">
+
+</div>
+
+# #Sumario de Estudos<br/>#Parte 01
+
+
+
+  - [x] Estrutura Condicional
+
+  - [x] Estrutura de Repetição
+
+  - [x] Estrutura de Decisão
+
+  - [x] 
+
+  - [x] Funções
+
+  - [x] Vetores e Matrizes
+
+  - [x] **Curso Introdutório de Git/GitHub**
+
+  <br/>
+
+   # #Lista de exercícios de Lógica para praticar.
+
+### [Clique aqui para acessar a lista de exercícios](https://amignon.gitbook.io/exercicios-de-programacao/)
+
+ <br/>
+
+</div>
