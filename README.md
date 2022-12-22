@@ -5,7 +5,7 @@ Este repositório é destinado ao conteúdo do grupo de estudos DreamTeam do cur
 
 "Um passo a frente e você não esta mais no mesmo lugar!" <br/><br/>
 
-<h3> Andamento do Processo:</h3>
+
 
 <img height="300vh" src="assets/imagens/binary-code.jpg">
 
