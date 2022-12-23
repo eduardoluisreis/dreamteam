@@ -1,0 +1,15 @@
+/var/www/projetos/dreamteam/exercicios/Estrutura_Sequencial/obj/Debug/net6.0/Exercicio_01.csproj.AssemblyReference.cache
+/var/www/projetos/dreamteam/exercicios/Estrutura_Sequencial/obj/Debug/net6.0/Exercicio_01.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/projetos/dreamteam/exercicios/Estrutura_Sequencial/obj/Debug/net6.0/Exercicio_01.AssemblyInfoInputs.cache
+/var/www/projetos/dreamteam/exercicios/Estrutura_Sequencial/obj/Debug/net6.0/Exercicio_01.AssemblyInfo.cs
+/var/www/projetos/dreamteam/exercicios/Estrutura_Sequencial/obj/Debug/net6.0/Exercicio_01.csproj.CoreCompileInputs.cache
+/var/www/projetos/dreamteam/exercicios/Estrutura_Sequencial/bin/Debug/net6.0/Exercicio_01
+/var/www/projetos/dreamteam/exercicios/Estrutura_Sequencial/bin/Debug/net6.0/Exercicio_01.deps.json
+/var/www/projetos/dreamteam/exercicios/Estrutura_Sequencial/bin/Debug/net6.0/Exercicio_01.runtimeconfig.json
+/var/www/projetos/dreamteam/exercicios/Estrutura_Sequencial/bin/Debug/net6.0/Exercicio_01.dll
+/var/www/projetos/dreamteam/exercicios/Estrutura_Sequencial/bin/Debug/net6.0/Exercicio_01.pdb
+/var/www/projetos/dreamteam/exercicios/Estrutura_Sequencial/obj/Debug/net6.0/Exercicio_01.dll
+/var/www/projetos/dreamteam/exercicios/Estrutura_Sequencial/obj/Debug/net6.0/refint/Exercicio_01.dll
+/var/www/projetos/dreamteam/exercicios/Estrutura_Sequencial/obj/Debug/net6.0/Exercicio_01.pdb
+/var/www/projetos/dreamteam/exercicios/Estrutura_Sequencial/obj/Debug/net6.0/Exercicio_01.genruntimeconfig.cache
+/var/www/projetos/dreamteam/exercicios/Estrutura_Sequencial/obj/Debug/net6.0/ref/Exercicio_01.dll
