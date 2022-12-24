@@ -15,17 +15,17 @@ Este repositório é destinado ao conteúdo do grupo de estudos DreamTeam do cur
 
 
 
-  - [x] Estrutura Condicional
+  - [ ] Estrutura Condicional
 
-  - [x] Estrutura de Repetição
+  - [ ] Estrutura de Repetição
 
-  - [x] Estrutura de Decisão 
+  - [ ] Estrutura de Decisão 
 
-  - [x] Funções
+  - [ ] Funções
 
-  - [x] Vetores e Matrizes
+  - [ ] Vetores e Matrizes
 
-  - [x] **Curso Introdutório de Git/GitHub**
+  - [ ] **Curso Introdutório de Git/GitHub**
 
   <br/>
 
@@ -36,3 +36,4 @@ Este repositório é destinado ao conteúdo do grupo de estudos DreamTeam do cur
  <br/>
 
 </div>
+
