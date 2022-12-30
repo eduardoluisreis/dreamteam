@@ -16,6 +16,8 @@ Este repositório é destinado ao conteúdo do grupo de estudos DreamTeam do cur
 
 
   - [x] Estrutura Condicional
+  
+  - [x] Estrutura Sequencial
 
   - [x] Estrutura de Repetição
 
